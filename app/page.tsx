@@ -10,7 +10,7 @@ export default function Home() {
         </h1>
         <ol className="list-decimal list-inside font-[family-name:var(--font-geist-sans)]">
           <li className="mb-2">Alice</li>
-          <li>Bob</li>
+          <li>Bobb</li>
         </ol>
       </div>
       {/* </main>
